@@ -2,7 +2,7 @@
 
 ![read_me_1](https://user-images.githubusercontent.com/91713489/138385488-03cbb815-6af3-4594-883c-d8cc14f544d2.jpg)
 
-###Data process in Excel
+### Data process in Excel
 1.	Rounding off the label of the generated data
 2.	Sort in ascending order by day label
 3.	Convert day label to date
@@ -10,7 +10,7 @@
 
 ![read_me_2](https://user-images.githubusercontent.com/91713489/138385501-6ba6c1e4-989f-49b0-8059-373b9731967d.jpg)
 
-###Data process in Excel
+### Data process in Excel
 1.	Rounding off the label of the generated data
 2.	Sort in ascending order by day label
 3.	Convert day label to date
